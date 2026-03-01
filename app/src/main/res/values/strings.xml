@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Crack Measure App</string>
+    <string name="instruction_text">Process: Tap crack to Measure</string>
+    <string name="width_placeholder">Width: -- mm</string>
+</resources>
